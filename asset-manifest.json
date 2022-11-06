@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/karol.rozkowski.github.io/static/css/main.3756d8f5.css",
+    "main.js": "/karol.rozkowski.github.io/static/js/main.b22bacfc.js",
+    "static/media/meetups.jpg": "/karol.rozkowski.github.io/static/media/meetups.5095829329550bcbbee9.jpg",
+    "static/media/profile-1.jpeg": "/karol.rozkowski.github.io/static/media/profile-1.f6b5a4c6a92135364a78.jpeg",
+    "static/media/crypto.png": "/karol.rozkowski.github.io/static/media/crypto.74931165fa82cb7ad0e9.png",
+    "static/media/hangman.jpg": "/karol.rozkowski.github.io/static/media/hangman.5391b02d23e80d5e0e21.jpg",
+    "static/media/wordle.jpg": "/karol.rozkowski.github.io/static/media/wordle.7950cc0e172ff6a887dd.jpg",
+    "static/media/progress.jpg": "/karol.rozkowski.github.io/static/media/progress.51336761d094e089e67d.jpg",
+    "static/media/react.png": "/karol.rozkowski.github.io/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/karol.rozkowski.github.io/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/karol.rozkowski.github.io/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/karol.rozkowski.github.io/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/karol.rozkowski.github.io/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/karol.rozkowski.github.io/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/karol.rozkowski.github.io/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/tic-tac-toe.png": "/karol.rozkowski.github.io/static/media/tic-tac-toe.26cb1a837cedbb215a65.png",
+    "static/media/javascript.png": "/karol.rozkowski.github.io/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/karol.rozkowski.github.io/index.html",
+    "main.3756d8f5.css.map": "/karol.rozkowski.github.io/static/css/main.3756d8f5.css.map",
+    "main.b22bacfc.js.map": "/karol.rozkowski.github.io/static/js/main.b22bacfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3756d8f5.css",
+    "static/js/main.b22bacfc.js"
+  ]
+}
