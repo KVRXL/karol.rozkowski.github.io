@@ -1,0 +1,52 @@
+/* logo font */
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+@layer base {
+    body {
+        @apply font-[Raleway]
+    }
+    li {
+        @apply mx-[2vw];
+        @apply cursor-pointer;
+    }
+}
+
+@layer components {
+    .bars {
+        @apply text-2xl absolute right-7 md:hidden z-10 hover:scale-125 transition duration-150 ease-out hover:ease-in
+    }
+    .times {
+        @apply text-2xl absolute right-7 z-10 hover:scale-125 transition duration-150 ease-out hover:ease-in
+    }
+    .shown {
+        @apply absolute top-0 left-0 w-full h-screen bg-[#292e37] flex flex-col justify-center items-center
+    }
+    .zoomin {
+        @apply hover:scale-110 transition duration-200 ease-out hover:ease-in;
+    }
+    .blinking-cursor:after {
+        @apply text-white md:content-['|'];
+        animation: blink 1s step-start infinite;
+    }
+    @keyframes blink {
+        50% {
+            opacity: 0;
+        }
+    }
+    .content-div {
+        @apply h-[250px] bg-no-repeat bg-cover bg-center hover:bg-gradient-to-r from-violet-500 to-fuchsia-500 !important;
+    }
+
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
