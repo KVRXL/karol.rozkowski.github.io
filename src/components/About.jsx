@@ -15,7 +15,7 @@ function About() {
                 <div className='row-span-2 hidden xl:flex'>
                     <img className='ml-auto mr-2 h-[35vh] mt-3' src={ImageOne} alt="profile pic" />
                 </div> 
-                <div className='sm:text-left text-4xl font-bold pt-2'>
+                <div className='sm:text-left text-3xl font-bold pt-2'>
                     <p>Hi! I am Karol, nice to meet you. Please take a look around</p>
                 </div>
                 <div>
