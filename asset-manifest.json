@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/karol.rozkowski.github.io/static/css/main.04b08fa4.css",
-    "main.js": "/karol.rozkowski.github.io/static/js/main.6eecdf87.js",
+    "main.css": "/karol.rozkowski.github.io/static/css/main.ac64fe89.css",
+    "main.js": "/karol.rozkowski.github.io/static/js/main.ff615e90.js",
     "static/media/meetups.jpg": "/karol.rozkowski.github.io/static/media/meetups.5095829329550bcbbee9.jpg",
     "static/media/profile-1.jpeg": "/karol.rozkowski.github.io/static/media/profile-1.f6b5a4c6a92135364a78.jpeg",
     "static/media/crypto.png": "/karol.rozkowski.github.io/static/media/crypto.74931165fa82cb7ad0e9.png",
@@ -18,11 +18,11 @@
     "static/media/tic-tac-toe.png": "/karol.rozkowski.github.io/static/media/tic-tac-toe.26cb1a837cedbb215a65.png",
     "static/media/javascript.png": "/karol.rozkowski.github.io/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/karol.rozkowski.github.io/index.html",
-    "main.04b08fa4.css.map": "/karol.rozkowski.github.io/static/css/main.04b08fa4.css.map",
-    "main.6eecdf87.js.map": "/karol.rozkowski.github.io/static/js/main.6eecdf87.js.map"
+    "main.ac64fe89.css.map": "/karol.rozkowski.github.io/static/css/main.ac64fe89.css.map",
+    "main.ff615e90.js.map": "/karol.rozkowski.github.io/static/js/main.ff615e90.js.map"
   },
   "entrypoints": [
-    "static/css/main.04b08fa4.css",
-    "static/js/main.6eecdf87.js"
+    "static/css/main.ac64fe89.css",
+    "static/js/main.ff615e90.js"
   ]
 }
