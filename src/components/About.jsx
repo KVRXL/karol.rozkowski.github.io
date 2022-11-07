@@ -4,7 +4,7 @@ import ImageOne from './images/profile-1.jpeg'
 function About() {
   return (
     <div name='about' className='w-full h-screen bg-[#1b1e24] text-gray-300'>
-        <div className='flex flex-col justify-center items-center w-full h-full lg:pr-[7rem] pb-20'>
+        <div className='flex flex-col justify-center items-center w-full h-full lg:pr-[7rem] pb-[140px] mb-9'>
             <div className='max-w-[1000px] w-full px-4 grid grid-cols-2 gap-8'>
                 <div className='sm:text-right pb-7 pl-4 pr-2'>
                     <p className='text-5xl font-bold inline border-b-4 border-purple-600'>About</p>
@@ -15,7 +15,7 @@ function About() {
                 <div className='row-span-2 hidden xl:flex'>
                     <img className='ml-auto mr-2 h-[35vh] mt-3' src={ImageOne} alt="profile pic" />
                 </div> 
-                <div className='sm:text-left text-3xl font-bold pt-2'>
+                <div className='sm:text-left text-4xl font-bold pt-2'>
                     <p>Hi! I am Karol, nice to meet you. Please take a look around</p>
                 </div>
                 <div>
